@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="A_Tests One">
+    <classes>
+    <class name="android.BlazeLoginTest"/>
+     </classes>
+    
+  </test>
+  <test  name="B_Tests Two">
+    <classes>
+     <class name="android.BlazeFindAndPurchaseTest"/>
+    </classes>
+    
+  </test>
+
+    
+  
+   
+</suite> 
+
